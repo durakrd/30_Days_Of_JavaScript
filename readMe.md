@@ -41,9 +41,49 @@
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 <div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<h2>💖 Sponsors</h2>
+
+<p>Our amazing sponsors for supporting my open-source contribution and the <strong>30 Days of Challenge</strong> series!</p>
+
+<h3>Current Sponsor</h3>
+<hr />
+<div align="center">
+  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png" />
+      <!-- Light mode (fallback) -->
+      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png"
+           width="400px"
+           alt="Wispr Flow Logo"
+           title="Wispr Flow" />
+    </picture>
+  </a>
+
+  <h1>
+    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
+      Talk to code, stay in the Flow.
+    </a>
+  </h1>
+
+  <h2>
+    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
+      Flow is built for devs who live in their tools. Speak and give more context, get better results.
+    </a>
+  </h2>
 </div>
+
+
+---
+
+### 🙌 Become a Sponsor
+
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** or through [PayPal](https://www.paypal.me/asabeneh).
+
+Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟
+
+---
+>
 
 <div align="center">
   <h1> 30 Days Of JavaScript: Introduction</h1>
@@ -82,6 +122,7 @@
 ![Thirty Days Of JavaScript](./images/day_1_1.png)
 
 - [30 Days Of JavaScript](#30-days-of-javascript)
+    - [🙌 Become a Sponsor](#-become-a-sponsor)
 - [📔 Day 1](#-day-1)
   - [Introduction](#introduction)
   - [Requirements](#requirements)
@@ -119,7 +160,9 @@
 
 ## Introduction
 
-**Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge, you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge,  you will get a 30DaysOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the dedicated [telegram group](https://t.me/ThirtyDaysOfJavaScript). 
+**Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge, you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge,  you will get a 30DaysOfJavaScript programming challenge completion certificate.  In order to get a certificate, you have to enroll to [DevOsome](https://www.devosome.com/) which is an interactive and engaging online educational platform.
+
+In case you need help or if you would like to help others you may join the dedicated [telegram group](https://t.me/ThirtyDaysOfJavaScript). 
 
 **A 30DaysOfJavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
 
